@@ -1,6 +1,6 @@
 # twitter-clone
-Twitter clone main page and post tweet functions with back-end
-https://www.youtube.com/watch?v=Fdi6FRCT1uY&t=3405s (front-end)
+Twitter clone main page and post tweet functions with back-end <br>
+https://www.youtube.com/watch?v=Fdi6FRCT1uY&t=3405s (front-end) <br>
 https://www.youtube.com/watch?v=TI8EkuhaIiM (back-end)
 # Libraries
 ## npm install -g expo-cli
