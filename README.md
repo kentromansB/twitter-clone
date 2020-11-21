@@ -6,3 +6,10 @@ https://www.youtube.com/watch?v=TI8EkuhaIiM (back-end)
 ## npm install -g expo-cli
 ## yarn add moment (Yarn because somehow it will have a conflict with the react-native if installed via npm)
 ## npm install -g @aws-amplify/cli
+# Features
+## • Account Creation
+## • Login
+## • Verification via email
+## • Recover password
+## • View Tweets on Main Page
+## • Post Tweet
